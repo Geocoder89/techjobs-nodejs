@@ -1,0 +1,12 @@
+{
+  "name": "techjobs-nodejs",
+  "version": "1.0.0",
+  "description": "sample tutorial for implementing a server in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node app.js"      
+  },
+  "author": "Oladele Omoarukhe",
+  "license": "ISC"
+}
