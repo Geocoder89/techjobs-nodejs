@@ -14,7 +14,6 @@ const PORT = 3000;
 // const fetchView = (name) => {
 //   return path.resolve(__dirname, "./views/", name);
 // };
-
 app.set("view engine", "ejs");
 app.use("/public", express.static(path.join(__dirname, "./public")));
 
